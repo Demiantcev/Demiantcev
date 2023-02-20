@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif" width="100"/>
 
@@ -15,3 +13,17 @@
 </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Demiantcev&style=flat-square&color=blue" alt=""/>
+  <div id="badges">
+<h1>
+  Welcome 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350"/>
+</div>
+  
+---
+
+### :man_technologist: About Me :
+  
+I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
