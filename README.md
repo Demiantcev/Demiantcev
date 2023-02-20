@@ -31,4 +31,14 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 * :zap: In my free time, I write and learn the Swift language.
 * :book: I read articles and books on programming.
 * :muscle: I will soon become the best iOS developer.
-* :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](demyantsev94@gmail.com)
+* :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:demyantsev94@gmail.com)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
